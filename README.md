@@ -11,7 +11,7 @@ The neural network architecture is as below:
 prediction used in this study.](Spike-Fig-CNN_v2.png)
 
 
-We also include the 10 trained neural networks in the folder "saved_CNN_model"
+We also include the 80 trained neural networks in the folder "saved_CNN_model" (10 trained neural network for each simulation duration ranging from 20ns to 160ns)
 
  If you find this code useful in your research, please consider citing:
  @article{capponi2021ai,
