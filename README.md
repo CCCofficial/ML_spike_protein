@@ -7,7 +7,8 @@ CNN_predict_affinity_spike_protein_12mutations_N501Y_N501V_N501T_N501S_Q498N_N50
 
 The neural network architecture is as below:
 
-[Spike-Fig-CNN_v2.pdf](https://github.com/CCCofficial/ML_spike_protein/files/6185458/Spike-Fig-CNN_v2.pdf)
+![Structure  of  the  convolutional  neural  network  and  ensemble
+prediction used in this study.](Spike-Fig-CNN_v2.png)
 
 
 We also include the 10 trained neural networks in the folder "saved_CNN_model"
