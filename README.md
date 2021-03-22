@@ -5,7 +5,12 @@ convert_data_to_image_subtract_moving_average.m: This is the matlab code for dat
 
 CNN_predict_affinity_spike_protein_12mutations_N501Y_N501V_N501T_N501S_Q498N_N501D.ipynb: This is the Jupyter notebook Python code for predicting the binding trend from the grayscale images generated from the Matlab code above.
 
-We also include the 1o trained neural networks in the folder "saved_CNN_model"
+The neural network architecture is as below:
+
+[Spike-Fig-CNN_v2.pdf](https://github.com/CCCofficial/ML_spike_protein/files/6185458/Spike-Fig-CNN_v2.pdf)
+
+
+We also include the 10 trained neural networks in the folder "saved_CNN_model"
 
  If you find this code useful in your research, please consider citing:
  @article{capponi2021ai,
